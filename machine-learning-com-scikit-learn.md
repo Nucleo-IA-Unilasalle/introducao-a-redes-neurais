@@ -1,9 +1,7 @@
 ---
-
 title: Introdução ao Machine Learning com Scikit-Learn e Pandas
 author: Diogo G. Bonofre dos Santos
 description: Introdução prática à classificação com K-NN, análise exploratória e métricas de avaliação.
-
 ---
 
 ## Modelo Classificador K-NN (Iris)

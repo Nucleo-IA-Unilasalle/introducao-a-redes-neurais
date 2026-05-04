@@ -10,4 +10,3 @@
   - Análise de Correlação: Coeficiente de Pearson
   - Inferência Estatística e Amostragem: População vs. Amostra
 - Aula 3: Conceitos introdutórios de Machine Learning (30/04)
-  - 
