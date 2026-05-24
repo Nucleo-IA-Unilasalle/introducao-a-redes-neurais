@@ -22,3 +22,9 @@
 ### Aula 4: Algorítmo Backpropagation (14/05)
 - Backpropagation
 - Prática interativa
+### Aula 5: Análise Exploratória de Dados como Investigação Estatística (28/05)
+- O que é EDA e o problema dos dados brutos
+- Dataset Titanic
+- Explorando estrutura e qualidade de dados
+- Análise através de gráficos
+- Da EDA para modelos de inferência reais 
